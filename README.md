@@ -1,11 +1,5 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on a fullstack project for my computer science degree.
-- 🌱 I’m currently learning Swift Server-Side using Vapor.
-***
-- 🤔 I’m looking for an apprenticeship in iOS Development.
-- ✨ My greatest portfolio project : [**UltimatePortfolio**](https://github.com/konradcr/UltimatePortfolio)
-
 ## 🛠 Tech Stack
 
 ### 📱 Mobile
